@@ -7,3 +7,5 @@ Created on Wed Nov 11 21:09:35 2020
 
 
 print('God is love')
+
+print('Priya is a good girl')
